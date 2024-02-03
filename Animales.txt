@@ -1,3 +1,5 @@
 Animales:
 Tigre
 Puma
+burro
+Pescado
