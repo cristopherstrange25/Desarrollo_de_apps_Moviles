@@ -6,3 +6,5 @@ Cebra
 Serpiente
 Rinoceronte
 Gallo
+Gorila
+Foca
