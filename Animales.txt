@@ -1,3 +1,8 @@
 Animales:
 Tigre
 Puma
+Aguila
+Cebra
+Serpiente
+Rinoceronte
+Gallo
