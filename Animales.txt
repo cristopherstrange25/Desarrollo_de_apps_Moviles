@@ -8,3 +8,7 @@ Rinoceronte
 Gallo
 Gorila
 Foca
+loro
+perico
+Gato
+Perro
